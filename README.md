@@ -26,16 +26,8 @@ In order to satisfy this equality, a unit which is in a highly- populated distri
 to a district which is neighbor and least populated. We are trying to minimize the variance
 of population values of all districts by using the third initialization step.
 
-## Neighborhood Structure
+## Neighborhood Structure 
 
-<div class="row">
-  <div class="column">
-    <img src="'images/fig1/tum.PNG'" alt="Snow" style="width:40%">
-  </div>
-  <div class="column">
-    <img src="images/fig1/n1_1.PNG" alt="Forest" style="width:40%">
-  </div>
-  <div class="column">
-    <img src="images/fig1/n1_2.PNG" alt="Mountains" style="width:40%">
-  </div>
-</div>
+<p align="center">
+  <img src='images/ns.PNG'/>
+</p>
