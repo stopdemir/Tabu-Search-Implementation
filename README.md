@@ -28,6 +28,20 @@ of population values of all districts by using the third initialization step.
 
 ## Neighborhood Structure 
 
+2 different neighborhood structures are utilized in the algorithm. All changes are between
+two neighboor districts. In the first one, one of the adjacent units between two districts is
+assigned to the neighbor district. The structure is shown in figure 1. There are 2 adjacent
+districts that are colorized by black and gray. In figure 1.b the unit number 6 is assigned
+to the gray district and unit number 2 is assigned to the black district in figure 1.c.
+
+Another neighborhood is swap-based. We are still interested in the adjacent units
+between two districts. These are unit number 1, 3, 4, 6 and 2, 11, 12 as it has been
+mentioned in the previous move and shown in figure 2.a. One each unit from two districts
+are assigned to the opposite districts. For example unit number 6 and 12 are swapped
+and shown in figure 2.b. As might be expected, some of changes are infeasible solutions.
+One of infeasible changes is shown in figure 2.c. In the algorithm, a contiguity control
+approach is used to eliminate these infeasible moves.
+
 <p align="center">
   <img src='images/ns.PNG'/>
 </p>
