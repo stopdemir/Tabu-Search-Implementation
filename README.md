@@ -31,3 +31,7 @@ of population values of all districts by using the third initialization step.
 <p align="center">
   <img src='images/ns.PNG'/>
 </p>
+
+<p align="center">
+  <img src='images/ns2.PNG'/>
+</p>
