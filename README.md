@@ -58,7 +58,7 @@ approach is used to eliminate these infeasible moves.
   <img src='images/12NO.PNG'/>
 </p>
 
-### Solution after the Algorithm
+### Solution after Running the Algorithm
 
 <p align="center">
   <img src='images/17NO.PNG'/>
