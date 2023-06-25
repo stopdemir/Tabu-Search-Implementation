@@ -1,7 +1,8 @@
 # Tabu-Search-Implementation
-Implementation of the tabu search algorithm used in my thesis. The problem in the thesis is political districting. A detailed explanation of the problem can be found under the "Thesis" folder above. 
+Implementation of the tabu search algorithm used in my thesis. The problem is known in the literature as political districting. A detailed explanation of the problem can be found under the "Thesis" folder above. 
 
 Most of the functions used in the algorithm can be found in "TabuFunctions.R" file. Some of the files are for the visualization of the solutions.
+
 
 ## Tabu Search Algorithm Pseudocode
 <p align="center">
